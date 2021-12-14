@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: นาย สุรบดินทร์ เงาใส
+# STUDENT ID: 640610673
